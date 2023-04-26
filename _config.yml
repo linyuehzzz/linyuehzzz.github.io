@@ -91,6 +91,7 @@ defaults:
       layout: tagged
 
 # baseurl: ""
+permalink: /home/:slug
 permalink: /publications/:slug
 permalink: /teaching/:slug
 
@@ -103,8 +104,8 @@ exclude:
 
 exclude: [vendor]
 
+Home: /home
 Publications: /publications
-
 Teaching: /teaching
 
 # Add general links to site pages here
