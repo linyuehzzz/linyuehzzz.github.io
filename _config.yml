@@ -78,17 +78,17 @@ compress_html:
 #   sass_dir: css
 #   style:    compressed
 
-# collections:
-#   my_tags:
-#     output: true
-#     permalink: /tagged/:slug/
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: my_tags
-#     values:
-#       layout: tagged
+collections:
+  my_tags:
+    output: true
+    permalink: /tagged/:slug/
+defaults:
+  -
+    scope:
+      path: ""
+      type: my_tags
+    values:
+      layout: tagged
 
 # baseurl: ""
 permalink: /publications/:slug
