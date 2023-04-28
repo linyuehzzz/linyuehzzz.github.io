@@ -18,3 +18,7 @@ permalink: /publications
 
 **Refereed Conference Proceedings**
 - **Lin, Y.** & Xiao, N. (2022). [Developing synthetic individual-level population datasets: The case of contextualizing maps of privacy-preserving census data](https://cartogis.org/docs/autocarto/2022/docs/abstracts/Session7_Lin_5258.pdf). *AutoCarto 2022 Online Proceedings*, November 2--4, Redlands, CA.
+
+
+**Software**
+- **Lin, Y.**, Xu, C., & Wang, J. [sandwichr: Spatial prediction based on spatial stratified heterogeneity](https://cran.r-project.org/web/packages/sandwichr/). R package version 1.0.4.
