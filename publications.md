@@ -6,7 +6,7 @@ permalink: /publications
 ---
 
 **Refereed Journal Articles**
-- **Lin, Y.**, Li, J., Porr, A., Logan, G., Xiao, N. & Miller, H. (2023). Creating building-level, three-dimensional digital models of historic urban neighborhoods from Sanborn Fire Insurance maps using machine learning. *PLOS ONE*. Accepted.
+- **Lin, Y.**, Li, J., Porr, A., Logan, G., Xiao, N. & Miller, H. (2023). Creating building-level, three-dimensional digital models of historic urban neighborhoods from Sanborn Fire Insurance maps using machine learning. *PLOS ONE*. In Press. doi:10.1371/journal.pone.0286340.
 - **Lin, Y.** & Xiao, N. (2023). Generating small area synthetic microdata from public aggregated data using an optimization method. *The Professional Geographer*. In Press. doi:10.1080/00330124.2023.2207640.
 - **Lin, Y.** & Xiao, N. (2023). [A computational framework for preserving privacy and maintaining utility of geographically aggregated data: A stochastic spatial optimization approach](https://www.tandfonline.com/doi/abs/10.1080/24694452.2023.2178377). *Annals of the American Association of Geographers*. In Press. doi:10.1080/24694452.2023.2178377.
 - **Lin, Y.** & Xiao, N. (2022). [Identifying high accuracy regions in traffic camera images to enhance the estimation of road traffic metrics: A quadtree-based method](https://journals.sagepub.com/doi/abs/10.1177/03611981221096117?journalCode=trra). *Transportation Research Record*, 2676(12), 522--534.
