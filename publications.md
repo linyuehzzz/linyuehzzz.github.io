@@ -6,7 +6,7 @@ permalink: /publications
 ---
 
 **Refereed Journal Articles**
-- **Lin, Y.**, Xu, C., & Wang, J. (2023). sandwichr: Spatial prediction in R based on spatial stratified heterogeneity. *Transactions in GIS*. In Press.
+- **Lin, Y.**, Xu, C., & Wang, J. (2023). sandwichr: Spatial prediction in R based on spatial stratified heterogeneity. *Transactions in GIS*. In Press. doi:10.1111/tgis.13088.
 
 - **Lin, Y.**, Li, J., Porr, A., Logan, G., Xiao, N. & Miller, H. (2023). Creating building-level, three-dimensional digital models of historic urban neighborhoods from Sanborn Fire Insurance maps using machine learning. *PLOS ONE*. In Press. doi:10.1371/journal.pone.0286340.
 
