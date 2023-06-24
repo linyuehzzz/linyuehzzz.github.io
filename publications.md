@@ -6,9 +6,9 @@ permalink: /publications
 ---
 
 **Refereed Journal Articles**
-- **Lin, Y.**, Xu, C., & Wang, J. (2023). sandwichr: Spatial prediction in R based on spatial stratified heterogeneity. *Transactions in GIS*. In Press. doi:10.1111/tgis.13088.
-
 - **Lin, Y.**, Li, J., Porr, A., Logan, G., Xiao, N. & Miller, H. (2023). Creating building-level, three-dimensional digital models of historic urban neighborhoods from Sanborn Fire Insurance maps using machine learning. *PLOS ONE*. In Press. doi:10.1371/journal.pone.0286340.
+
+- **Lin, Y.**, Xu, C., & Wang, J. (2023). [sandwichr: Spatial prediction in R based on spatial stratified heterogeneity](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.13088). *Transactions in GIS*. In Press. doi:10.1111/tgis.13088.
 
 - **Lin, Y.** & Xiao, N. (2023). [Generating small area synthetic microdata from public aggregated data using an optimization method](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2207640). *The Professional Geographer*. In Press. doi:10.1080/00330124.2023.2207640.
 
@@ -28,6 +28,8 @@ permalink: /publications
 
 
 **Refereed Conference Proceedings**
+- **Lin, Y.** & Xiao, N. (2023). Investigating MAUP effects on census data using approximately equal-population aggregations. *GIScience 2023 Short Paper Proceedings*, September 12--15, Leeds, UK.
+
 - **Lin, Y.** & Xiao, N. (2022). [Developing synthetic individual-level population datasets: The case of contextualizing maps of privacy-preserving census data](https://cartogis.org/docs/autocarto/2022/docs/abstracts/Session7_Lin_5258.pdf). *AutoCarto 2022 Online Proceedings*, November 2--4, Redlands, CA.
 
 
