@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="/linyuehzzz.github.io/assets/photo.jpeg" alt="Alt Text" width="20%" />
+<img src="assets/photo.jpeg" alt="Alt Text" width="20%" />
 
 I am an Assistant Instructional Professor of GIScience in Division of the Social Sciences and the College at the [University of Chicago](https://www.uchicago.edu/). My research is situated at the intersection of geospatial data, computation, and human values. I develop computational and statistical methodologies that harness the potential of geospatial data to address practical social issues in urban and regional contexts, with a strong emphasis on promoting fairness, equality, and inclusivity.
 
