@@ -9,7 +9,7 @@ permalink: /publications
 
 - **Lin, Y.**, Xu, C., & Wang, J. (2023). [sandwichr: Spatial prediction in R based on spatial stratified heterogeneity](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.13088). *Transactions in GIS*. In Press. doi:10.1111/tgis.13088.
 
-- **Lin, Y.** & Xiao, N. (2023). [Generating small area synthetic microdata from public aggregated data using an optimization method](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2207640). *The Professional Geographer*. In Press. doi:10.1080/00330124.2023.2207640.
+- **Lin, Y.** & Xiao, N. (2023). [Generating small areal synthetic microdata from public aggregated data using an optimization method](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2207640). *The Professional Geographer*. In Press. doi:10.1080/00330124.2023.2207640.
 
 - **Lin, Y.**, Li, J., Porr, A., Logan, G., Xiao, N. & Miller, H. (2023). [Creating building-level, three-dimensional digital models of historic urban neighborhoods from Sanborn Fire Insurance maps using machine learning](http://dx.doi.org/10.1371/journal.pone.0286340). *PLoS ONE*, 18(6), e0286340.
 
