@@ -7,6 +7,8 @@ permalink: /publications
 
 **Refereed Journal Articles**
 
+- **Lin, Y.** & Xiao, N. Assessing the impact of differential privacy on population uniques in geographically aggregated data: The case of the 2020 U.S. Census. *Population Research and Policy Review*. In Press.
+
 - **Lin, Y.** (2023). Geo-indistinguishable masking: Enhancing privacy protection in spatial point mapping. *Cartography and Geographic Information Science*. In Press.
 
 - **Lin, Y.** & Xiao, N. (2023). [Generating small areal synthetic microdata from public aggregated data using an optimization method](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2207640). *The Professional Geographer*. In Press. doi:10.1080/00330124.2023.2207640.
