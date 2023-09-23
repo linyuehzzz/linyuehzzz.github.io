@@ -33,9 +33,9 @@ permalink: /publications
 
 
 **Refereed Conference Proceedings**
-- **Lin, Y.** & Xiao, N. (2023). [Investigating MAUP effects on census data using approximately equal-population aggregations](https://drops.dagstuhl.de/opus/volltexte/2023/18942/). *GIScience 2023 Short Paper Proceedings*, September 12--15, Leeds, UK.
+- **Lin, Y.** & Xiao, N. (2023). [Investigating MAUP effects on census data using approximately equal-population aggregations](https://drops.dagstuhl.de/opus/volltexte/2023/18942/). *12th International Conference on Geographic Information Science (GIScience 2023)*, September 12--15, Leeds, UK.
 
-- **Lin, Y.** & Xiao, N. (2022). [Developing synthetic individual-level population datasets: The case of contextualizing maps of privacy-preserving census data](https://cartogis.org/docs/autocarto/2022/docs/abstracts/Session7_Lin_5258.pdf). *AutoCarto 2022 Online Proceedings*, November 2--4, Redlands, CA.
+- **Lin, Y.** & Xiao, N. (2022). [Developing synthetic individual-level population datasets: The case of contextualizing maps of privacy-preserving census data](https://cartogis.org/docs/autocarto/2022/docs/abstracts/Session7_Lin_5258.pdf). *AutoCarto 2022*, November 2--4, Redlands, CA.
 
 
 **Software**
