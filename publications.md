@@ -11,7 +11,7 @@ permalink: /publications
 
 - **Lin, Y.** & Xiao, N. (2023). [Generating small areal synthetic microdata from public aggregated data using an optimization method](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2207640). *The Professional Geographer*. In Press. doi:10.1080/00330124.2023.2207640.
 
-- **Lin, Y.** & Xiao, N. (2023). [Assessing the impact of differential privacy on population uniques in geographically aggregated data: The case of the 2020 U.S. Census](https://link.springer.com/article/10.1007/s11113-023-09829-4). *Population Research and Policy Review*, 42, 81.
+- **Lin, Y.** & Xiao, N. (2023). [Assessing the impact of differential privacy on population uniques in geographically aggregated data: The case of the 2020 U.S. Census](https://link.springer.com/article/10.1007/s11113-023-09829-4). *Population Research and Policy Review*, 42(5), 81.
 
 - **Lin, Y.**, Xu, C., & Wang, J. (2023). [sandwichr: Spatial prediction in R based on spatial stratified heterogeneity](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.13088). *Transactions in GIS*, 27(5), 1579--1598.
 
