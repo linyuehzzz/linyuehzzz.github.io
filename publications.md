@@ -7,9 +7,11 @@ permalink: /publications
 
 **Refereed Journal Articles**
 
-- **Lin, Y.** (2023). [Geo-indistinguishable masking: Enhancing privacy protection in spatial point mapping](https://doi.org/10.1080/15230406.2023.2267967). *Cartography and Geographic Information Science*. In Press. doi: 10.1080/15230406.2023.2267967.
+- **Lin, Y.** (2023). Synthetic population data for small area estimation in the United States. *Environment and Planning B: Urban Analytics and City Science*. In Press. \\
 
 - **Lin, Y.** & Xiao, N. (2023). [Generating small areal synthetic microdata from public aggregated data using an optimization method](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2207640). *The Professional Geographer*. In Press. doi:10.1080/00330124.2023.2207640.
+
+- **Lin, Y.** (2023). [Geo-indistinguishable masking: Enhancing privacy protection in spatial point mapping](https://doi.org/10.1080/15230406.2023.2267967). *Cartography and Geographic Information Science*, 50(6), 608--623.
 
 - **Lin, Y.** & Xiao, N. (2023). [Assessing the impact of differential privacy on population uniques in geographically aggregated data: The case of the 2020 U.S. Census](https://link.springer.com/article/10.1007/s11113-023-09829-4). *Population Research and Policy Review*, 42(5), 81.
 
