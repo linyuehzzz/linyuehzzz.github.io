@@ -7,7 +7,7 @@ permalink: /publications
 
 **Refereed Journal Articles**
 
-- **Lin, Y.** (2023). [Synthetic population data for small area estimation in the United States](https://doi.org/10.1177/23998083231215825). *Environment and Planning B: Urban Analytics and City Science*. In Press. doi: https://doi.org/10.1177/23998083231215825.\\
+- **Lin, Y.** (2023). [Synthetic population data for small area estimation in the United States](https://doi.org/10.1177/23998083231215825). *Environment and Planning B: Urban Analytics and City Science*. In Press. doi:10.1177/23998083231215825.
 
 - **Lin, Y.** & Xiao, N. (2023). [Generating small areal synthetic microdata from public aggregated data using an optimization method](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2207640). *The Professional Geographer*. In Press. doi:10.1080/00330124.2023.2207640.
 
