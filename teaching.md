@@ -5,6 +5,8 @@ permalink: /teaching
 ---
 
 **Assistant Instructional Professor at the University of Chicago**
+- GISC 28100: Introduction to Geocomputation (Winter 2024)
+- GISC 28800: History of Cartography (Winter 2024)
 - GISC 28300: Topics in Geographic Information Science (Autumn 2023)
 
 **Instructor of Record at the Ohio State University**
