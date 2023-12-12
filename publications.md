@@ -9,7 +9,7 @@ permalink: /publications
 
 - **Lin, Y.** (2023). [Synthetic population data for small area estimation in the United States](https://doi.org/10.1177/23998083231215825). *Environment and Planning B: Urban Analytics and City Science*. In Press. doi:10.1177/23998083231215825.
 
-- **Lin, Y.** & Xiao, N. (2023). [Generating small areal synthetic microdata from public aggregated data using an optimization method](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2207640). *The Professional Geographer*. In Press. doi:10.1080/00330124.2023.2207640.
+- **Lin, Y.** & Xiao, N. (2023). [Generating small areal synthetic microdata from public aggregated data using an optimization method](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2207640). *The Professional Geographer*, 75(6), 905--915.
 
 - **Lin, Y.** (2023). [Geo-indistinguishable masking: Enhancing privacy protection in spatial point mapping](https://doi.org/10.1080/15230406.2023.2267967). *Cartography and Geographic Information Science*, 50(6), 608--623.
 
