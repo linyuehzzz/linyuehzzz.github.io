@@ -7,7 +7,7 @@ permalink: /publications
 
 **Refereed Journal Articles**
 
-- **Lin, Y.** & Xiao, N. (2024). Exploring the tradeoff between privacy and utility of complete-count census data using a multiobjective optimization approach. *Geographical Analysis*. In Press. doi: 10.1111/gean.12388.
+- **Lin, Y.** & Xiao, N. (2024). [Exploring the tradeoff between privacy and utility of complete-count census data using a multiobjective optimization approach](https://doi.org/10.1111/gean.12388). *Geographical Analysis*. In Press. doi: 10.1111/gean.12388.
 
 - **Lin, Y.** (2024). [Moving beyond anonymity: Embracing a collective approach to location privacy in data-intensive geospatial analytics](https://journals.sagepub.com/doi/10.1177/26349825231224029). *Environment and Planning F*. In Press. doi: 10.1177/26349825231224029.
 
