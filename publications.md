@@ -11,6 +11,8 @@ permalink: /publications
 
 - **Lin, Y.** (2024). [Moving beyond anonymity: Embracing a collective approach to location privacy in data-intensive geospatial analytics](https://journals.sagepub.com/doi/10.1177/26349825231224029). *Environment and Planning F*. In Press. doi: 10.1177/26349825231224029.
 
+- **Lin, Y.** (2024). [You are where you live? Evaluating the racial and ethnic (mis)representation in geodemographic classification](https://doi.org/10.1016/j.apgeog.2024.103244). *Applied Geography*, 165, 103244.
+
 - **Lin, Y.** (2024). [Synthetic population data for small area estimation in the United States](https://doi.org/10.1177/23998083231215825). *Environment and Planning B: Urban Analytics and City Science*, 51(2), 553--562.
 
 - **Lin, Y.** & Xiao, N. (2023). [Generating small areal synthetic microdata from public aggregated data using an optimization method](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2207640). *The Professional Geographer*, 75(6), 905--915.
