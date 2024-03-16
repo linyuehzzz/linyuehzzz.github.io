@@ -5,6 +5,9 @@ permalink: /teaching
 ---
 
 **University of Chicago**
+- SOCI 20253: Introduction to Spatial Data Science (Summer 2024) 
+- SOSC 13320: Social Science Inquiry: Spatial Analysis III (Spring 2024) 
+- GISC 28400: GIScience Practicum (Spring 2024)
 - GISC 28100: Introduction to Geocomputation (Winter 2024)
 - GISC 28800: History of Cartography (Winter 2024)
 - GISC 28300: Topics in Geographic Information Science (Autumn 2023)
