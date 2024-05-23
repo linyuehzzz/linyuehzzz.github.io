@@ -5,7 +5,7 @@ title: Home
 
 <img src="assets/photo.jpeg" alt="Alt Text" width="20%" />
 
-I am Assistant Instructional Professor of GIScience in Division of the Social Sciences and the College at the [University of Chicago](https://www.uchicago.edu/). My research is situated at the intersection of geospatial data, computation, and human values. One stream of my research is to develop new geospatial computing methods to process, analyze, and visualize geospatial data for urban and regional applications. I am also interested in improving decision-making with geospatial computing by promoting privacy, transparency, and fairness.
+I am Assistant Instructional Professor of GIScience at the [Center for Spatial Data Science](https://spatial.uchicago.edu/), [University of Chicago](https://www.uchicago.edu/). My research is situated at the intersection of **data**, **computation**, and **human values**. My research aims to answer the question: How can we develop computational methods, which are increasingly complex, to embody social responsibility, preserve privacy, and be used to understand and mitigate inequalities and injustices? To achieve this, (1) I integrate social justice principles into geospatial methods to address the needs of individuals and communities with varying levels of vulnerability. (2) I develop methods to protect individual privacy while maintaining the utility of geospatial data. (3) In addition, I am intersted in exploring how new geospatial computing methods can help understand and reduce inqeualities and improve quality of life. 
 
 
 **Interests**

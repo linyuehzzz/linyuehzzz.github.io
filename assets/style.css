@@ -75,7 +75,7 @@ input:not([type="submit"]) {
     color: inherit;
     border: 1px dashed;
     padding: 5px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .full-width textarea,
