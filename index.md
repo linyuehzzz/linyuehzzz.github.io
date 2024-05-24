@@ -5,14 +5,12 @@ title: Home
 
 <img src="assets/photo.jpeg" alt="Alt Text" width="20%" />
 
-I am Assistant Instructional Professor of GIScience at the [Center for Spatial Data Science](https://spatial.uchicago.edu/), [University of Chicago](https://www.uchicago.edu/). My research is situated at the intersection of **data**, **computation**, and **human values**. My research aims to answer the question: How can we develop computational methods, which are increasingly complex, to embody social responsibility, preserve privacy, and be used to understand and mitigate inequalities and injustices? To achieve this, (1) I explore integrating social justice principles into geospatial methods to address the needs of individuals and communities with varying levels of vulnerability. (2) I work on developing methods to protect individual privacy while maintaining the utility of geospatial data. (3) In addition, I am intersted in how new geospatial computing methods can be used to help understand and reduce inqeualities and improve quality of life. 
+I am Assistant Instructional Professor of GIScience at the [Center for Spatial Data Science](https://spatial.uchicago.edu/), [University of Chicago](https://www.uchicago.edu/). My research is situated at the intersection of **data**, **computation**, and **human values**, from which I aim to critically engage with geospatial computing both practically and theoretically. My research aims to answer the question: How can we develop computational methods, which are increasingly complex, to embody social responsibility, preserve privacy, and be used to understand and mitigate inequalities and injustices? My work has been focused on issues such as:
 
+- **Fairness in spatial computing**: Integrating fairness, equitability, and other social justice principles into spatial optimization and machine learning to address the needs of individuals and communities with varying levels of vulnerability.
+- **Digital privacy**: Developing methods to protect individual privacy while providing useful geospatial data.
+- **Computing for social good**: Exploring how new geospatial computing methods can help understand and reduce inequalities and improve quality of life.
 
-**Interests**
-- Geospatial data science
-- Geospatial computing
-- Urban informatics
-- Location privacy and justice
 
 
 **Education**
