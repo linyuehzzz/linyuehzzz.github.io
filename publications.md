@@ -11,7 +11,7 @@ permalink: /publications
 
 - **Lin, Y.** & Xiao, N. (2024). [Exploring the tradeoff between privacy and utility of complete-count census data using a multiobjective optimization approach](https://doi.org/10.1111/gean.12388). *Geographical Analysis*. In Press. doi: 10.1111/gean.12388.
 
-- **Lin, Y.** (2024). [Moving beyond anonymity: Embracing a collective approach to location privacy in data-intensive geospatial analytics](https://journals.sagepub.com/doi/10.1177/26349825231224029). *Environment and Planning F*. In Press. doi: 10.1177/26349825231224029.
+- **Lin, Y.** (2024). [Moving beyond anonymity: Embracing a collective approach to location privacy in data-intensive geospatial analytics](https://journals.sagepub.com/doi/10.1177/26349825231224029). *Environment and Planning F*, 3(1-2), 45--63.
 
 - **Lin, Y.** (2024). [You are where you live? Evaluating the racial and ethnic (mis)representation in geodemographic classification](https://doi.org/10.1016/j.apgeog.2024.103244). *Applied Geography*, 165, 103244.
 
@@ -43,6 +43,8 @@ permalink: /publications
 
 
 **Refereed Conference Proceedings**
+-  **Lin, Y.** (2024). [A multi-objective optimization approach to balancing utility and equity in location-allocation problems](https://cartogis.org/docs/conferences/CaGIS_UCGIS_2024/Research%20Paper/CAGIS-UCGIS-2024_ResearchPaper_Session2.pdf). *CaGIS-UCGIS 2024 Symposium*, June 3--6, Columbus, OH.
+
 - **Lin, Y.** & Xiao, N. (2023). [Investigating MAUP effects on census data using approximately equal-population aggregations](https://drops.dagstuhl.de/opus/volltexte/2023/18942/). *12th International Conference on Geographic Information Science (GIScience 2023)*, September 12--15, Leeds, UK.
 
 - **Lin, Y.** & Xiao, N. (2022). [Developing synthetic individual-level population datasets: The case of contextualizing maps of privacy-preserving census data](https://cartogis.org/docs/autocarto/2022/docs/abstracts/Session7_Lin_5258.pdf). *AutoCarto 2022*, November 2--4, Redlands, CA.
