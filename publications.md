@@ -7,9 +7,11 @@ permalink: /publications
 
 **Refereed Journal Articles**
 
+- **Lin, Y.** & Zhao, B. (2024). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. *Annals of the American Association of Geographers*. In Press.
+
 - Xiao, N., Kim, M.J., & **Lin, Y.** (2024). [A multistart and recombination algorithm for finding many unique solutions to spatial aggregation problems](https://doi.org/10.1007/s10707-024-00520-0). *Geoinformatica*. In Press. doi: 10.1007/s10707-024-00520-0.
 
-- **Lin, Y.** & Xiao, N. (2024). [Exploring the tradeoff between privacy and utility of complete-count census data using a multiobjective optimization approach](https://doi.org/10.1111/gean.12388). *Geographical Analysis*. In Press. doi: 10.1111/gean.12388.
+- **Lin, Y.** & Xiao, N. (2024). [Exploring the tradeoff between privacy and utility of complete-count census data using a multiobjective optimization approach](https://doi.org/10.1111/gean.12388). *Geographical Analysis*, 56(3), 427--450.
 
 - **Lin, Y.** (2024). [Moving beyond anonymity: Embracing a collective approach to location privacy in data-intensive geospatial analytics](https://journals.sagepub.com/doi/10.1177/26349825231224029). *Environment and Planning F*, 3(1-2), 45--63.
 
