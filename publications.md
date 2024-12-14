@@ -7,7 +7,9 @@ permalink: /publications
 
 **Refereed Journal Articles**
 
-- **Lin, Y.** & Zhao, B. (2024). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. *Annals of the American Association of Geographers*. In Press.
+- **Lin, Y.** & Grekousis, G. (2025). Can geodemographic clustering be fair? Incorporating social fairness in crisp and fuzzy approaches through a unified framework.. *International Journal of Geographical Information Science*. In Press. 
+
+- **Lin, Y.** & Zhao, B. (2024). [Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity](https://doi.org/10.1080/24694452.2024.2435920). *Annals of the American Association of Geographers*. In Press. doi: 10.1080/24694452.2024.2435920.
 
 - Xiao, N., Kim, M.J., & **Lin, Y.** (2024). [A multistart and recombination algorithm for finding many unique solutions to spatial aggregation problems](https://doi.org/10.1007/s10707-024-00520-0). *Geoinformatica*. In Press. doi: 10.1007/s10707-024-00520-0.
 
