@@ -7,7 +7,7 @@ permalink: /publications
 
 **Refereed Journal Articles**
 
-- **Lin, Y.** & Grekousis, G. (2025). Can geodemographic clustering be fair? Incorporating social fairness in crisp and fuzzy approaches through a unified framework.. *International Journal of Geographical Information Science*. In Press. 
+- **Lin, Y.** & Grekousis, G. (2025). [Can geodemographic clustering be fair? Incorporating social fairness in crisp and fuzzy approaches through a unified framework](https://doi.org/10.1080/13658816.2024.2444525). *International Journal of Geographical Information Science*. In Press. doi: 10.1080/13658816.2024.2444525.
 
 - **Lin, Y.** & Zhao, B. (2024). [Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity](https://doi.org/10.1080/24694452.2024.2435920). *Annals of the American Association of Geographers*. In Press. doi: 10.1080/24694452.2024.2435920.
 
