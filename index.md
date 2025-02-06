@@ -18,4 +18,4 @@ I am Assistant Instructional Professor of GIScience at the [Center for Spatial D
 - M.A. in Geography, The Ohio State University, 2022
 - B.S. in Geographic Information Science, Wuhan University, 2019
 
-If you'd like to get in touch, feel free to reach me by email at <liny2@uchicago.edu>. You can also follow me on [Twitter](https://twitter.com/linyuehzzz) or find my publications on [Google Scholar](https://scholar.google.com/citations?user=Pssz3IgAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Yue-Lin-14).
+If you'd like to get in touch, feel free to reach me by email at <liny2@uchicago.edu>. You can also follow me on [LinkedIn](https://www.linkedin.com/in/yue-lin-9536b019b/) and [ResearchGate](https://www.researchgate.net/profile/Yue-Lin-14).
