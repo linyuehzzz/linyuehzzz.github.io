@@ -9,9 +9,9 @@ permalink: /publications
 
 - **Lin, Y.** & Grekousis, G. (2025). [Can geodemographic clustering be fair? Incorporating social fairness in crisp and fuzzy approaches through a unified framework](https://doi.org/10.1080/13658816.2024.2444525). *International Journal of Geographical Information Science*. In Press. doi: 10.1080/13658816.2024.2444525.
 
-- **Lin, Y.** & Zhao, B. (2024). [Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity](https://doi.org/10.1080/24694452.2024.2435920). *Annals of the American Association of Geographers*. In Press. doi: 10.1080/24694452.2024.2435920.
-
 - Xiao, N., Kim, M.J., & **Lin, Y.** (2024). [A multistart and recombination algorithm for finding many unique solutions to spatial aggregation problems](https://doi.org/10.1007/s10707-024-00520-0). *Geoinformatica*. In Press. doi: 10.1007/s10707-024-00520-0.
+
+- **Lin, Y.** & Zhao, B. (2024). [Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity](https://doi.org/10.1080/24694452.2024.2435920). *Annals of the American Association of Geographers*, 115(3), 499-512.
 
 - **Lin, Y.** & Xiao, N. (2024). [Exploring the tradeoff between privacy and utility of complete-count census data using a multiobjective optimization approach](https://doi.org/10.1111/gean.12388). *Geographical Analysis*, 56(3), 427--450.
 
