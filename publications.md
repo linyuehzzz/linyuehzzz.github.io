@@ -9,6 +9,8 @@ permalink: /publications
 
 - **Lin, Y.** & Grekousis, G. (2025). [Can geodemographic clustering be fair? Incorporating social fairness in crisp and fuzzy approaches through a unified framework](https://doi.org/10.1080/13658816.2024.2444525). *International Journal of Geographical Information Science*. In Press. doi: 10.1080/13658816.2024.2444525.
 
+- **Lin, Y.**, Robinson, C., Yeap, Q.F., & Michael, H. (2025). [Optimizing air pollution sensing for social and environmental justice.](https://doi.org/10.1016/j.apgeog.2025.103606). *Applied Geography*, 178, 103606.
+
 - **Lin, Y.** & Zhao, B. (2025). [Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity](https://doi.org/10.1080/24694452.2024.2435920). *Annals of the American Association of Geographers*, 115(3), 499-512.
 
 - Xiao, N., Kim, M.J., & **Lin, Y.** (2025). [A multistart and recombination algorithm for finding many unique solutions to spatial aggregation problems](https://doi.org/10.1007/s10707-024-00520-0). *Geoinformatica*, 29, 53-91.
