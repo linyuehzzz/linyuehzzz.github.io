@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 body {
-    font-family: 'Garamond', 'Helvetica', serif;
+    font-family: 'Fira Code', monospace;
     margin: auto;
     padding: 20px;
     max-width: 720px;
@@ -10,8 +12,6 @@ body {
     line-height: 1.5;
     color: #444;
 }
-
-
 
 h1,
 h2,
@@ -127,7 +127,7 @@ img {
 }
 
 code {
-    font-family: monospace;
+    font-family: 'Fira Code', monospace;
     padding: 2px;
     background-color: #f2f2f2;
     color: #222;
