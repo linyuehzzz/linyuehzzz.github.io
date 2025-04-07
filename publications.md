@@ -21,7 +21,7 @@ permalink: /publications
 
 - **Lin, Y.** (2024). [You are where you live? Evaluating the racial and ethnic (mis)representation in geodemographic classification](https://doi.org/10.1016/j.apgeog.2024.103244). *Applied Geography*, 165, 103244.
 
-- **Lin, Y.** (2024). [Synthetic population data for small area estimation in the United States](https://doi.org/10.1177/23998083231215825). *Environment and Planning B: Urban Analytics and City Science*, 51(2), 553--562.
+- **Lin, Y.** (2024). [Synthetic population data for small area estimation in the United States](https://doi.org/10.1177/23998083231215825). *Environment and Planning B: Urban Analytics and City Science*, 51(2), 553--562. [[data](https://doi.org/10.6084/m9.figshare.22056893)]
 
 - **Lin, Y.** & Xiao, N. (2023). [Generating small areal synthetic microdata from public aggregated data using an optimization method](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2207640). *The Professional Geographer*, 75(6), 905--915.
 
@@ -29,7 +29,7 @@ permalink: /publications
 
 - **Lin, Y.** & Xiao, N. (2023). [Assessing the impact of differential privacy on population uniques in geographically aggregated data: The case of the 2020 U.S. Census](https://link.springer.com/article/10.1007/s11113-023-09829-4). *Population Research and Policy Review*, 42(5), 81.
 
-- **Lin, Y.**, Xu, C., & Wang, J. (2023). [sandwichr: Spatial prediction in R based on spatial stratified heterogeneity](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.13088). *Transactions in GIS*, 27(5), 1579--1598.
+- **Lin, Y.**, Xu, C., & Wang, J. (2023). [sandwichr: Spatial prediction in R based on spatial stratified heterogeneity](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.13088). *Transactions in GIS*, 27(5), 1579--1598. [[R package](https://cran.r-project.org/web/packages/sandwichr/)]
 
 - **Lin, Y.**, Li, J., Porr, A., Logan, G., Xiao, N. & Miller, H. (2023). [Creating building-level, three-dimensional digital models of historic urban neighborhoods from Sanborn Fire Insurance maps using machine learning](http://dx.doi.org/10.1371/journal.pone.0286340). *PLoS ONE*, 18(6), e0286340.
 
@@ -54,7 +54,3 @@ permalink: /publications
 - **Lin, Y.** & Xiao, N. (2023). [Investigating MAUP effects on census data using approximately equal-population aggregations](https://drops.dagstuhl.de/opus/volltexte/2023/18942/). *12th International Conference on Geographic Information Science (GIScience 2023)*, September 12--15, Leeds, UK.
 
 - **Lin, Y.** & Xiao, N. (2022). [Developing synthetic individual-level population datasets: The case of contextualizing maps of privacy-preserving census data](https://cartogis.org/docs/autocarto/2022/docs/abstracts/Session7_Lin_5258.pdf). *AutoCarto 2022*, November 2--4, Redlands, CA.
-
-
-**Software**
-- **Lin, Y.**, Xu, C., & Wang, J. [sandwichr: Spatial prediction based on spatial stratified heterogeneity](https://cran.r-project.org/web/packages/sandwichr/). R package version 1.0.4.
