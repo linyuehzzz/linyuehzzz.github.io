@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-<!-- <img src="assets/photo.jpeg" alt="Alt Text" width="20%" /> -->
 <img src="assets/photo.jpeg" alt="Alt Text" width="20%" style="float: right; margin-left: 20px; margin-bottom: 10px;" />
 
 I am Assistant Instructional Professor of GIScience at the [Center for Spatial Data Science](https://spatial.uchicago.edu/), [University of Chicago](https://www.uchicago.edu/). My research is situated at the intersection of **data**, **computation**, and **human values**, from which I aim to critically engage with geospatial computing both practically and theoretically. My research aims to answer the question: How can we develop computational methods, which are increasingly complex, to embody social responsibility, preserve privacy, and be used to understand and mitigate inequalities and injustices? My work has been focused on issues such as:
