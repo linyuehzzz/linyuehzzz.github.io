@@ -154,7 +154,8 @@ blockquote {
 
 footer {
     padding: 25px 0;
-    text-align: left;
+    text-align: right;
+    font-size: small;
 }
 
 .helptext {
@@ -331,5 +332,6 @@ small a {
 
 .bottom-footer {
     padding: 50px;
-    text-align: center;
+    text-align: right;
+    font-size: small;
 }
