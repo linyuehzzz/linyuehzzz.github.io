@@ -7,7 +7,7 @@ permalink: /publications
 
 **Refereed Journal Articles**
 
-- **Lin, Y.** & Grekousis, G. (2025). Can geodemographic clustering be fair? Incorporating social fairness in crisp and fuzzy approaches through a unified framework. *International Journal of Geographical Information Science*. [[paper](https://doi.org/10.1080/13658816.2024.2444525)]
+- **Lin, Y.** & Grekousis, G. (2025). Can geodemographic clustering be fair? Incorporating social fairness in crisp and fuzzy approaches through a unified framework. *International Journal of Geographical Information Science*, 39(6), 1270–1295. [[paper](https://doi.org/10.1080/13658816.2024.2444525)]
 
 - **Lin, Y.**, Robinson, C., Yeap, Q.F., & Michael, H. (2025). Optimizing air pollution sensing for social and environmental justice. *Applied Geography*, 178, 103606. [[paper](https://doi.org/10.1016/j.apgeog.2025.103606)]
 
