@@ -25,8 +25,7 @@ title: Home
 
 ### Contact
 
-Feel free to get in touch:  
-<a href="mailto:linyue@illinois.edu">linyue@illinois.edu</a>  
+Feel free to get in touch: <a href="mailto:linyue@illinois.edu">linyue@illinois.edu</a>  
 
 You can also find me on:  
 - [Google Scholar](https://scholar.google.com/citations?user=Pssz3IgAAAAJ&hl=en)  
