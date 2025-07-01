@@ -20,8 +20,7 @@ title: Home
   </div>
 </div>
 
----
-
+<hr style="border: none; border-top: 1px solid #ccc; margin: 2em 0;" />
 
 ### Contact
 
