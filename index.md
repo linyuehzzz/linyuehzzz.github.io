@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="assets/photo.jpeg" alt="Yue Lin" width="20%" style="border-radius: 10px;" />
+<div style="display: flex; align-items: center; gap: 40px; margin-bottom: 1.5em;">
+  <img src="assets/photo.jpeg" alt="Yue Lin" width="15%" style="border-radius: 10px;" />
   <div>
     <p>
       I am an Assistant Professor in the 
@@ -15,20 +15,13 @@ title: Home
     </p>
     <p>
       My research lies at the intersection of <strong>data</strong>, <strong>computation</strong>, and <strong>human values</strong>. 
-      I am interested in critically exploring how emerging technologies of geospatial computing and artificial intelligence, both in practice and theory, can be designed and used in ways that are ethical, socially responsible and benefit humanity. More broadly, my interests span spatial data science, location privacy, and the societal implications of algorithmic systems.
+      I am interested in critically exploring how emerging technologies of geospatial computing and artificial intelligence, both in practice and theory, can be designed and used in ways that are ethical, socially responsible, and benefit humanity. More broadly, my interests span spatial data science, location privacy, and the societal implications of algorithmic systems.
     </p>
   </div>
 </div>
 
 ---
 
-### Education
-
-- Ph.D. in Geography, The Ohio State University, 2023  
-- M.A. in Geography, The Ohio State University, 2022  
-- B.S. in Geographic Information Science, Wuhan University, 2019
-
----
 
 ### Contact
 
