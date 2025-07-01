@@ -3,19 +3,54 @@ layout: default
 title: Home
 ---
 
-<img src="assets/photo.jpeg" alt="Alt Text" width="20%" style="float: right; margin-left: 20px; margin-bottom: 10px;" />
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 1.5em;">
+  <img src="assets/photo.jpeg" alt="Portrait of Yue Lin" width="20%" style="border-radius: 10px;" />
+  <div>
+    <p>
+      I am an Assistant Professor in the 
+      <a href="https://ggis.illinois.edu/" target="_blank">
+        Department of Geography & Geographic Information Science
+      </a> 
+      at the University of Illinois Urbana-Champaign.
+    </p>
+    <p>
+      My research lies at the intersection of <strong>data</strong>, <strong>computation</strong>, and <strong>human values</strong>. 
+      I critically engage with geospatial computing and artificial intelligence—both in practice and theory—to explore how emerging technologies can be designed and deployed in ethical, socially responsible ways.
+    </p>
+  </div>
+</div>
 
-I am Assistant Instructional Professor of GIScience at the [Center for Spatial Data Science](https://spatial.uchicago.edu/), [University of Chicago](https://www.uchicago.edu/). My research is situated at the intersection of **data**, **computation**, and **human values**, from which I aim to critically engage with geospatial computing both practically and theoretically. My research aims to answer the question: How can we develop computational methods, which are increasingly complex, to embody social responsibility, preserve privacy, and be used to understand and mitigate inequalities and injustices? My work has been focused on issues such as:
+---
 
-- **Fairness in spatial computing**: Integrating fairness, equitability, and other social justice principles into spatial optimization and machine learning to address the needs of individuals and communities with varying levels of vulnerability.
-- **Digital privacy**: Developing methods to protect individual privacy while providing useful geospatial data.
-- **Computing for social good**: Exploring how new geospatial computing methods can help understand and reduce inequalities and improve quality of life.
+### Research Interests
 
+My current work focuses on:
 
+- **GeoAI and Society**  
+  Examining how artificial intelligence shapes, and is shaped by, geographic knowledge and spatial technologies.
 
-**Education**
-- Ph.D. in Geography, The Ohio State University, 2023
-- M.A. in Geography, The Ohio State University, 2022
+- **Geospatial computing for equity**  
+  Investigating how new computational methods can help uncover and reduce social and spatial inequalities.
+
+- **Privacy-preserving spatial analysis**  
+  Designing techniques that protect individual privacy while enabling the use of geospatial data for research and policy.
+
+---
+
+### Education
+
+- Ph.D. in Geography, The Ohio State University, 2023  
+- M.A. in Geography, The Ohio State University, 2022  
 - B.S. in Geographic Information Science, Wuhan University, 2019
 
-If you'd like to get in touch, feel free to reach me by email at <liny2@uchicago.edu>. You can also follow me on [LinkedIn](https://www.linkedin.com/in/yue-lin-9536b019b/) and [ResearchGate](https://www.researchgate.net/profile/Yue-Lin-14).
+---
+
+### Contact
+
+Feel free to get in touch:  
+<a href="mailto:linyue@illinois.edu">linyue@illinois.edu</a>  
+
+You can also find me on:  
+- [Google Scholar](https://scholar.google.com/citations?user=Pssz3IgAAAAJ&hl=en)  
+- [LinkedIn](https://www.linkedin.com/in/yue-lin-9536b019b/)  
+- [ResearchGate](https://www.researchgate.net/profile/Yue-Lin-14)
