@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 1.5em;">
-  <img src="assets/photo.jpeg" alt="Portrait of Yue Lin" width="20%" style="border-radius: 10px;" />
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="assets/photo.jpeg" alt="Yue Lin" width="20%" style="border-radius: 10px;" />
   <div>
     <p>
       I am an Assistant Professor in the 
@@ -15,25 +15,10 @@ title: Home
     </p>
     <p>
       My research lies at the intersection of <strong>data</strong>, <strong>computation</strong>, and <strong>human values</strong>. 
-      I critically engage with geospatial computing and artificial intelligence—both in practice and theory—to explore how emerging technologies can be designed and deployed in ethical, socially responsible ways.
+      I am interested in critically exploring how emerging technologies of geospatial computing and artificial intelligence, both in practice and theory, can be designed and used in ways that are ethical, socially responsible and benefit humanity. More broadly, my interests span spatial data science, location privacy, and the societal implications of algorithmic systems.
     </p>
   </div>
 </div>
-
----
-
-### Research Interests
-
-My current work focuses on:
-
-- **GeoAI and Society**  
-  Examining how artificial intelligence shapes, and is shaped by, geographic knowledge and spatial technologies.
-
-- **Geospatial computing for equity**  
-  Investigating how new computational methods can help uncover and reduce social and spatial inequalities.
-
-- **Privacy-preserving spatial analysis**  
-  Designing techniques that protect individual privacy while enabling the use of geospatial data for research and policy.
 
 ---
 
