@@ -27,7 +27,6 @@ a {
     color: #007aff;
     cursor: pointer;
     text-decoration: none;
-    /*color: #ff5e6c;*/
 }
 
 a:hover {
@@ -59,8 +58,7 @@ a:hover {
 }
 
 nav a {
-    letter-spacing: -0.015em;  /* tighter kerning for clean look */
-    color: #111;
+    color: #222;
     font-weight: 400;      /* bold */
     text-decoration: none; /* no underline */
     margin-right: 10px;
