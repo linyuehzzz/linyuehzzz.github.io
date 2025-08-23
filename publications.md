@@ -5,7 +5,7 @@ description: Here be writings
 permalink: /publications
 ---
 
-**2025**
+### 2025
 
 24. **Lin, Y.**, Bae, C., & Talen, E. (2025). How would AI define neighborhood boundaries? A comparison with human-crowdsourced data. *Environment and Planning B: Urban Analytics and City Science*, In Press. [[paper](https://doi.org/10.1177/23998083251369570)]
 23. **Lin, Y.** & Grekousis, G. (2025). Can geodemographic clustering be fair? Incorporating social fairness in crisp and fuzzy approaches through a unified framework. *International Journal of Geographical Information Science*, 39(6), 1270–1295. [[paper](https://doi.org/10.1080/13658816.2024.2444525)]
@@ -13,7 +13,7 @@ permalink: /publications
 21. **Lin, Y.** & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. *Annals of the American Association of Geographers*, 115(3), 499-512. [[paper](https://doi.org/10.1080/24694452.2024.2435920)]
 20. Xiao, N., Kim, M.J., & **Lin, Y.** (2025). A multistart and recombination algorithm for finding many unique solutions to spatial aggregation problems. *Geoinformatica*, 29, 53-91. [[paper](https://doi.org/10.1007/s10707-024-00520-0)]
 
-**2024**
+### 2024
 
 19. **Lin, Y.** & Xiao, N. (2024). Exploring the tradeoff between privacy and utility of complete-count census data using a multiobjective optimization approach. *Geographical Analysis*, 56(3), 427--450. [[paper](https://doi.org/10.1111/gean.12388)]
 18. **Lin, Y.** (2024). Moving beyond anonymity: Embracing a collective approach to location privacy in data-intensive geospatial analytics. *Environment and Planning F*, 3(1-2), 45--63. [[paper](https://doi.org/10.1177/26349825231224029)]
