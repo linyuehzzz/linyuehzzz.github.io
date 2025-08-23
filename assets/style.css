@@ -1,24 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap');
 
 body {
     font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;          /* thinner, elegant look */
     margin: auto;
     padding: 20px;
     max-width: 720px;
     text-align: left;
     background-color: #fff;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    line-height: 1.5;
-    color: #444;
+    line-height: 1.6;          /* more airy, neat spacing */
+    color: #222;               /* slightly darker, crisp text */
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;          /* slightly bolder for headings */
+    letter-spacing: -0.015em;  /* tighter kerning for clean look */
+    color: #111;
+}
+
 strong,
 b {
     color: #222;
