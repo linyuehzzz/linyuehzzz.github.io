@@ -27,6 +27,7 @@ a {
     color: #007aff;
     cursor: pointer;
     text-decoration: none;
+    /*color: #ff5e6c;*/
 }
 
 a:hover {
@@ -58,8 +59,6 @@ a:hover {
 }
 
 nav a {
-    color: #222;
-    font-weight: 400;      /* bold */
     text-decoration: none; /* no underline */
     margin-right: 10px;
 }
@@ -67,6 +66,7 @@ nav a {
 nav a:hover {
     text-decoration: underline; /* optional hover effect */
 }
+
 textarea,
 input:not([type="submit"]) {
     background-color: inherit;
