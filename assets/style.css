@@ -59,8 +59,8 @@ a:hover {
 }
 
 nav a {
-    color: #000;           /* black text */
-    font-weight: 600;      /* bold */
+    color: #222;           /* black text */
+    font-weight: 400;      /* bold */
     text-decoration: none; /* no underline */
     margin-right: 10px;
 }
