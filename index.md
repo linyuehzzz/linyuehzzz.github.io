@@ -4,10 +4,8 @@ title: Home
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px; margin-bottom: 1.5em; align-items: flex-start;">
-  <div style="flex-shrink: 0;">
-    <img src="assets/photo.jpeg" alt="Yue Lin"
-         style="width: 150px; max-width: 100%; height: auto; border-radius: 0; display: block;" />
-  </div>
+  <img src="assets/photo.jpeg" alt="Yue Lin"
+       style="border-radius: 10px; width: 150px; max-width: 100%; height: auto; flex-shrink: 0;" />
   <div style="flex: 1; min-width: 250px;">
     <p>
       I am an Assistant Professor in the 
