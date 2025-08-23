@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px; margin-bottom: 1.5em; align-items: flex-start;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; margin-bottom: 1.5em;">
   <img src="assets/photo.jpeg" alt="Yue Lin"
-       style="width: 150px; max-width: 100%; height: auto; flex-shrink: 0; border-radius: 0;" />
+       style="width: 150px; max-width: 100%; height: auto; vertical-align: top; border-radius: 0;" />
   <div style="flex: 1; min-width: 250px;">
     <p>
       I am an Assistant Professor in the 
