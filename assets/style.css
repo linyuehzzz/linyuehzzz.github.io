@@ -59,7 +59,8 @@ a:hover {
 }
 
 nav a {
-    color: #222;           /* black text */
+    letter-spacing: -0.015em;  /* tighter kerning for clean look */
+    color: #111;
     font-weight: 400;      /* bold */
     text-decoration: none; /* no underline */
     margin-right: 10px;
