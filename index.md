@@ -5,7 +5,7 @@ title: Home
 
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 1.5em; flex-wrap: wrap;">
   <img src="assets/photo.jpeg" alt="Yue Lin" 
-       style="border-radius: 10px; width: 100px; max-width: 30%; height: auto; flex-shrink: 0;" />
+       style="border-radius: 10px; width: 120px; max-width: 30%; height: auto; flex-shrink: 0;" />
   <div style="flex: 1; min-width: 250px;">
     <p>
       I am an Assistant Professor in the 
