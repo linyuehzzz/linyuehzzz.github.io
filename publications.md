@@ -13,7 +13,7 @@ permalink: /publications
 23. **Lin, Y.**, Robinson, C., Yeap, Q.F., & Michael, H. (2025). Optimizing air pollution sensing for social and environmental justice. *Applied Geography*, 178, 103606. [[paper](https://doi.org/10.1016/j.apgeog.2025.103606)]
 22. **Lin, Y.** & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. *Annals of the American Association of Geographers*, 115(3), 499-512. [[paper](https://doi.org/10.1080/24694452.2024.2435920)]
 21. Xiao, N., Kim, M.J., & **Lin, Y.** (2025). A multistart and recombination algorithm for finding many unique solutions to spatial aggregation problems. *Geoinformatica*, 29, 53-91. [[paper](https://doi.org/10.1007/s10707-024-00520-0)]
-20. **Lin, Y.**, & Kim, J. (2025). Pillars of GeoAI in Human Geography. In *GeoAI and Human Geography: The Dawn of a New Spatial Intelligence Era* (pp. 29-40). Cham: Springer Nature Switzerland. [[chapter](https://doi.org/10.1007/978-3-031-87421-5_3)]
+20. **Lin, Y.** & Kim, J. (2025). Pillars of GeoAI in Human Geography. In *GeoAI and Human Geography: The Dawn of a New Spatial Intelligence Era* (pp. 29-40). Cham: Springer Nature Switzerland. [[chapter](https://doi.org/10.1007/978-3-031-87421-5_3)]
 
 **2024**
 <!-- -->
