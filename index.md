@@ -30,6 +30,14 @@ title: Home
     <p>
       I’m currently investigating the social implications of geospatial artificial intelligence, including issues of social bias, semantic collapse, and loss of diversity. I’m also committed to helping students to engage critically with these technologies by integrating AI literacy and ethical reasoning into their geospatial education.
     </p>
+    <p>
+      Feel free to get in touch with me at 
+      <a href="mailto:linyue@illinois.edu">linyue@illinois.edu</a>.  
+      You can also find me on 
+      <a href="https://scholar.google.com/citations?user=Pssz3IgAAAAJ&hl=en" target="_blank">Google Scholar</a>, 
+      <a href="https://www.linkedin.com/in/yue-lin-9536b019b/" target="_blank">LinkedIn</a>, and 
+      <a href="https://www.researchgate.net/profile/Yue-Lin-14" target="_blank">ResearchGate</a>.
+    </p>
   </div>
 </div>
 
