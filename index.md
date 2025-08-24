@@ -3,9 +3,17 @@ layout: default
 title: Home
 ---
 
+<style>
+  @media (max-width: 768px) {
+    .photo-block {
+      margin-top: 1.5em; /* adds space above the image block on mobile */
+    }
+  }
+</style>
+
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 1.5em; flex-wrap: wrap;">
   <!-- Photo + Info block -->
-  <div style="flex-shrink: 0; width: 140px; text-align: center;">
+  <div class="photo-block" style="flex-shrink: 0; width: 140px; text-align: center;">
     <img src="assets/photo.jpeg" alt="Yue Lin" 
          style="width: 100%; height: auto;" />
     <div style="margin-top: 0.7em; font-size: 0.85em; color: #444; line-height: 1.6;">
