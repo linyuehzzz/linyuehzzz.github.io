@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 40px; margin-bottom: 1.5em; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 40px; margin-bottom: 1.5em; flex-wrap: wrap;">
+  <!-- Photo + Info block -->
   <div style="flex-shrink: 0; width: 140px; text-align: center;">
     <img src="assets/photo.jpeg" alt="Yue Lin" 
          style="width: 100%; height: auto;" />
@@ -14,6 +15,7 @@ title: Home
     </div>
   </div>
 
+  <!-- Main text -->
   <div style="flex: 1; min-width: 250px;">
     <p>
       I am an Assistant Professor in the 
@@ -38,4 +40,4 @@ Feel free to get in touch: <a href="mailto:linyue@illinois.edu">linyue@illinois.
 You can also find me on:  
 - [Google Scholar](https://scholar.google.com/citations?user=Pssz3IgAAAAJ&hl=en)  
 - [LinkedIn](https://www.linkedin.com/in/yue-lin-9536b019b/)  
-- [ResearchGate](https://www.researchgate.net/profile/Yue-Lin-14)
+- [ResearchGate](https://www.researchgate.net/profile/Yue-Lin-14)  
