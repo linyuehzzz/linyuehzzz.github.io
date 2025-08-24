@@ -10,8 +10,7 @@ title: Home
          style="width: 100%; height: auto;" />
     <div style="margin-top: 0.7em; font-size: 0.85em; color: #444; line-height: 1.6;">
       <div>Assistant Professor</div>
-      <div style="margin-top: 0.4em;">Department of Geography &amp;<br>Geographic Information Science</div>
-      <div style="margin-top: 0.4em;">University of Illinois<br>Urbana-Champaign</div>
+      <div style="margin-top: 0.4em;">@ UIUC GGIS</div>
     </div>
   </div>
 
