@@ -4,16 +4,16 @@ title: Home
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 40px; margin-bottom: 1.5em; flex-wrap: wrap;">
-  <div style="text-align: center; flex-shrink: 0;">
+  <div style="flex-shrink: 0; width: 150px; text-align: center;">
     <img src="assets/photo.jpeg" alt="Yue Lin" 
-         style="border-radius: 10px; width: 120px; max-width: 30%; height: auto;" />
-    <div style="margin-top: 0.5em; font-size: 0.9em; color: #444; line-height: 1.4;">
+         style="border-radius: 10px; width: 100%; height: auto;" />
+    <div style="margin-top: 0.5em; font-size: 0.85em; color: #444; line-height: 1.4;">
       Assistant Professor <br>
       Department of Geography & Geographic Information Science <br>
       University of Illinois Urbana-Champaign
     </div>
   </div>
-  
+
   <div style="flex: 1; min-width: 250px;">
     <p>
       I am an Assistant Professor in the 
