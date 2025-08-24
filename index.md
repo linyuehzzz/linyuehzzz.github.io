@@ -11,6 +11,7 @@ title: Home
     <div style="margin-top: 0.7em; font-size: 0.85em; color: #444; line-height: 1.6;">
       <div>Assistant Professor</div>
       <div style="margin-top: 0.4em;">@ UIUC GGIS</div>
+      <div style="margin-top: 0.4em;">2032 NHB</div>
     </div>
   </div>
 
