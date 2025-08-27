@@ -26,11 +26,14 @@ title: Home
   <!-- Main text -->
   <div style="flex: 1; min-width: 250px;">
     <p>
-      I am an Assistant Professor in the 
+      I am Assistant Professor in the 
       <a href="https://ggis.illinois.edu/" target="_blank">
         Department of Geography & Geographic Information Science
       </a> 
-      at the University of Illinois Urbana-Champaign.
+      at the University of Illinois Urbana-Champaign. I also serve on the Board of Directors for the 
+      <a href="https://cartogis.org/" target="_blank">
+        Cartography and Geographic Information Society
+      </a>.
     </p>
     <p>
       My research explores the intersection of data, computation, and human values. I am interested in how emerging geospatial technologies can be designed and used in ways that are ethical, socially responsible, and beneficial to humanity. More broadly, my interests span spatial data science, location privacy, and the societal implications of algorithmic systems.
