@@ -1,4 +1,7 @@
---- layout: default title: Home ---
+--- 
+layout: default 
+title: Home 
+---
 
 <style> @media (max-width: 768px) { .photo-block { margin-top: 1.5em; /*
 adds space above the image block on mobile */ } } </style>
@@ -15,7 +18,12 @@ style="margin-top: 0.4em;">2032 NHB</div> </div> </div>
   <!-- Main text --> <div style="flex: 1; min-width: 250px;"> <p> I am
   Assistant Professor in the <a href="https://ggis.illinois.edu/"
   target="_blank"> Department of Geography & Geographic Information
-  Science </a> at the University of Illinois Urbana-Champaign. I am also a Faculty Affiliate at the <a href="https://ncsa.illinois.edu/" target="_blank">National Center for Supercomputing Applications</a> and serve on the Board of Directors of the <a href="https://cartogis.org/" target="_blank">Cartography and Geographic Information Society</a>. </p> <p> My research explores the
+  Science </a> at the University of Illinois Urbana-Champaign. I am also
+  a Faculty Affiliate at the <a href="https://ncsa.illinois.edu/"
+  target="_blank">National Center for Supercomputing Applications</a>
+  and serve on the Board of Directors of the <a
+  href="https://cartogis.org/" target="_blank">Cartography and
+  Geographic Information Society</a>. </p> <p> My research explores the
   intersection of data, computation, and human values. I am interested
   in how emerging geospatial technologies can be designed and used in
   ways that are ethical, socially responsible, and beneficial to
