@@ -52,7 +52,7 @@ permalink: /publications
 
 3. **Lin, Y.**, Wang, J., & Xu, C. (2020). Theoretical and empirical comparative evaluations on measures of map association. *Journal of Geographical Systems*, 22, 361--390. [[paper](https://doi.org/10.1007/s10109-020-00324-4)]
 2. **Lin, Y.**, Kang, M., Wu, Y., Du, Q., & Liu, T. (2020). A deep learning architecture for semantic address matching. *International Journal of Geographical Information Science*, 34(3), 559--576. [[paper](https://doi.org/10.1080/13658816.2019.1681431)]
-    - **<small>-- AAG Kauffman Runner-Up Award for Best Student Paper in Geography & Entrepreneurship</small>**
+    - **<small>AAG Kauffman Runner-Up Award for Best Student Paper in Geography & Entrepreneurship</small>**
 
 **2019**
 <!-- -->
