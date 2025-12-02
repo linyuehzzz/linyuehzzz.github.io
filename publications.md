@@ -20,7 +20,7 @@ permalink: /publications
 <!-- -->
 
 19. **Lin, Y.** & Xiao, N. (2024). Exploring the tradeoff between privacy and utility of complete-count census data using a multiobjective optimization approach. *Geographical Analysis*, 56(3), 427--450. [[paper](https://doi.org/10.1111/gean.12388)]
-    - **<small>2022 Third Place Doctoral Student Paper Award @ ELDAAG</small>**
+    - **<small>2022 3rd Place Doctoral Student Paper Award @ ELDAAG</small>**
 18. **Lin, Y.** (2024). Moving beyond anonymity: Embracing a collective approach to location privacy in data-intensive geospatial analytics. *Environment and Planning F*, 3(1-2), 45--63. [[paper](https://doi.org/10.1177/26349825231224029)]
 17. **Lin, Y.** (2024). You are where you live? Evaluating the racial and ethnic (mis)representation in geodemographic classification. *Applied Geography*, 165, 103244. [[paper](https://doi.org/10.1016/j.apgeog.2024.103244)]
 16. **Lin, Y.** (2024). Synthetic population data for small area estimation in the United States. *Environment and Planning B: Urban Analytics and City Science*, 51(2), 553--562. [[paper](https://doi.org/10.1177/23998083231215825)] [[data](https://doi.org/10.6084/m9.figshare.22056893)]
@@ -34,18 +34,18 @@ permalink: /publications
 13. **Lin, Y.** (2023). Geo-indistinguishable masking: Enhancing privacy protection in spatial point mapping. *Cartography and Geographic Information Science*, 50(6), 608--623. [[paper](https://doi.org/10.1080/15230406.2023.2267967)]
 12. **Lin, Y.** & Xiao, N. (2023). Assessing the impact of differential privacy on population uniques in geographically aggregated data: The case of the 2020 U.S. Census. *Population Research and Policy Review*, 42(5), 81. [[paper](https://doi.org/10.1007/s11113-023-09829-4)]
 11. **Lin, Y.**, Xu, C., & Wang, J. (2023). sandwichr: Spatial prediction in R based on spatial stratified heterogeneity. *Transactions in GIS*, 27(5), 1579--1598. [[paper](https://doi.org/10.1111/tgis.13088)] [[R package](https://cran.r-project.org/web/packages/sandwichr/)]
-    - **<small>2021 First Place Doctoral Student Paper Award @ ELDAAG</small>**
+    - **<small>2021 1st Place Doctoral Student Paper Award @ ELDAAG</small>**
 10. **Lin, Y.**, Li, J., Porr, A., Logan, G., Xiao, N. & Miller, H. (2023). Creating building-level, three-dimensional digital models of historic urban neighborhoods from Sanborn Fire Insurance maps using machine learning. *PLoS ONE*, 18(6), e0286340. [[paper](http://dx.doi.org/10.1371/journal.pone.0286340)]
 9. **Lin, Y.** & Xiao, N. (2023). A computational framework for preserving privacy and maintaining utility of geographically aggregated data: A stochastic spatial optimization approach. *Annals of the American Association of Geographers*, 113(5), 1035--1056. [[paper](https://doi.org/10.1080/24694452.2023.2178377)]
-    - **<small>2022 Third Place Student Lightening Talks Award @ UCGIS Symposium</small>**
+    - **<small>2022 3rd Place Student Lightening Talks Award @ UCGIS Symposium</small>**
 8. **Lin, Y.** & Xiao, N. (2023). Investigating MAUP effects on census data using approximately equal-population aggregations. *12th International Conference on Geographic Information Science (GIScience 2023)*, September 12--15, Leeds, UK. [[short paper](https://doi.org/10.4230/LIPIcs.GIScience.2023.47)]
 
 **2022**
 <!-- -->
 
 7. **Lin, Y.** & Xiao, N. (2022). Identifying high accuracy regions in traffic camera images to enhance the estimation of road traffic metrics: A quadtree-based method. *Transportation Research Record*, 2676(12), 522--534. [[paper](https://doi.org/10.1177/03611981221096117)]
-    - **<small>2021 First Place Student Paper Award @ UCGIS Symposium</small>**
-    - **<small>2021 First Place Award @ AAG Robert Raskin Student Competition</small>**
+    - **<small>2021 1st Place Student Paper Award @ UCGIS Symposium</small>**
+    - **<small>2021 1st Place Award @ AAG Robert Raskin Student Competition</small>**
 6. **Lin, Y.** & Xiao, N. (2022). Developing synthetic individual-level population datasets: The case of contextualizing maps of privacy-preserving census data. *AutoCarto 2022*, November 2--4, Redlands, CA. [[short paper](https://cartogis.org/docs/autocarto/2022/docs/abstracts/Session7_Lin_5258.pdf)]
     - **<small>2022 ICA Scholarship</small>**
 
