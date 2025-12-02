@@ -24,6 +24,7 @@ permalink: /publications
 17. **Lin, Y.** (2024). You are where you live? Evaluating the racial and ethnic (mis)representation in geodemographic classification. *Applied Geography*, 165, 103244. [[paper](https://doi.org/10.1016/j.apgeog.2024.103244)]
 16. **Lin, Y.** (2024). Synthetic population data for small area estimation in the United States. *Environment and Planning B: Urban Analytics and City Science*, 51(2), 553--562. [[paper](https://doi.org/10.1177/23998083231215825)] [[data](https://doi.org/10.6084/m9.figshare.22056893)]
 15. **Lin, Y.** (2024). A multi-objective optimization approach to balancing utility and equity in location-allocation problems. *CaGIS-UCGIS 2024 Symposium*, June 3--6, Columbus, OH. [[short paper](https://cartogis.org/docs/conferences/CaGIS_UCGIS_2024/Research%20Paper/CAGIS-UCGIS-2024_ResearchPaper_Session2.pdf)]
+    - **<small>2024 ICA Scholarship</small>**
 
 **2023**
 <!-- -->
@@ -34,13 +35,14 @@ permalink: /publications
 11. **Lin, Y.**, Xu, C., & Wang, J. (2023). sandwichr: Spatial prediction in R based on spatial stratified heterogeneity. *Transactions in GIS*, 27(5), 1579--1598. [[paper](https://doi.org/10.1111/tgis.13088)] [[R package](https://cran.r-project.org/web/packages/sandwichr/)]
 10. **Lin, Y.**, Li, J., Porr, A., Logan, G., Xiao, N. & Miller, H. (2023). Creating building-level, three-dimensional digital models of historic urban neighborhoods from Sanborn Fire Insurance maps using machine learning. *PLoS ONE*, 18(6), e0286340. [[paper](http://dx.doi.org/10.1371/journal.pone.0286340)]
 9. **Lin, Y.** & Xiao, N. (2023). A computational framework for preserving privacy and maintaining utility of geographically aggregated data: A stochastic spatial optimization approach. *Annals of the American Association of Geographers*, 113(5), 1035--1056. [[paper](https://doi.org/10.1080/24694452.2023.2178377)]
-8. **Lin, Y.** & Xiao, N. (2023).[Investigating MAUP effects on census data using approximately equal-population aggregations. *12th International Conference on Geographic Information Science (GIScience 2023)*, September 12--15, Leeds, UK. [[short paper](https://doi.org/10.4230/LIPIcs.GIScience.2023.47)]
+8. **Lin, Y.** & Xiao, N. (2023). Investigating MAUP effects on census data using approximately equal-population aggregations. *12th International Conference on Geographic Information Science (GIScience 2023)*, September 12--15, Leeds, UK. [[short paper](https://doi.org/10.4230/LIPIcs.GIScience.2023.47)]
 
 **2022**
 <!-- -->
 
 7. **Lin, Y.** & Xiao, N. (2022). Identifying high accuracy regions in traffic camera images to enhance the estimation of road traffic metrics: A quadtree-based method. *Transportation Research Record*, 2676(12), 522--534. [[paper](https://doi.org/10.1177/03611981221096117)]
 6. **Lin, Y.** & Xiao, N. (2022). Developing synthetic individual-level population datasets: The case of contextualizing maps of privacy-preserving census data. *AutoCarto 2022*, November 2--4, Redlands, CA. [[short paper](https://cartogis.org/docs/autocarto/2022/docs/abstracts/Session7_Lin_5258.pdf)]
+    - **<small>2022 ICA Scholarship</small>**
 
 **2021**
 <!-- -->
@@ -53,7 +55,7 @@ permalink: /publications
 
 3. **Lin, Y.**, Wang, J., & Xu, C. (2020). Theoretical and empirical comparative evaluations on measures of map association. *Journal of Geographical Systems*, 22, 361--390. [[paper](https://doi.org/10.1007/s10109-020-00324-4)]
 2. **Lin, Y.**, Kang, M., Wu, Y., Du, Q., & Liu, T. (2020). A deep learning architecture for semantic address matching. *International Journal of Geographical Information Science*, 34(3), 559--576. [[paper](https://doi.org/10.1080/13658816.2019.1681431)]
-    - **<small>AAG Kauffman Runner-Up Award for Best Student Paper in Geography & Entrepreneurship</small>**
+    - **<small>2020 AAG Kauffman Runner-Up Award for Best Student Paper in Geography & Entrepreneurship</small>**
 
 **2019**
 <!-- -->
