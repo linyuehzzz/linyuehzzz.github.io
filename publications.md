@@ -8,13 +8,14 @@ permalink: /publications
 **2025**
 <!-- -->
 
-25. **Lin, Y.**, Bae, C., & Talen, E. (2025). How would AI define neighborhood boundaries? A comparison with human-crowdsourced data. *Environment and Planning B: Urban Analytics and City Science*, In Press. [[paper](https://doi.org/10.1177/23998083251369570)]
-24. **Lin, Y.** & Grekousis, G. (2025). Can geodemographic clustering be fair? Incorporating social fairness in crisp and fuzzy approaches through a unified framework. *International Journal of Geographical Information Science*, 39(6), 1270–1295. [[paper](https://doi.org/10.1080/13658816.2024.2444525)]
-23. **Lin, Y.**, Robinson, C., Yeap, Q.F., & Michael, H. (2025). Optimizing air pollution sensing for social and environmental justice. *Applied Geography*, 178, 103606. [[paper](https://doi.org/10.1016/j.apgeog.2025.103606)]
-22. **Lin, Y.** & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. *Annals of the American Association of Geographers*, 115(3), 499-512. [[paper](https://doi.org/10.1080/24694452.2024.2435920)]
+26. **Lin, Y.**, Bae, C., & Talen, E. (2025). How would AI define neighborhood boundaries? A comparison with human-crowdsourced data. *Environment and Planning B: Urban Analytics and City Science*, In Press. [[paper](https://doi.org/10.1177/23998083251369570)]
+25. **Lin, Y.** & Grekousis, G. (2025). Can geodemographic clustering be fair? Incorporating social fairness in crisp and fuzzy approaches through a unified framework. *International Journal of Geographical Information Science*, 39(6), 1270–1295. [[paper](https://doi.org/10.1080/13658816.2024.2444525)]
+24. **Lin, Y.**, Robinson, C., Yeap, Q.F., & Michael, H. (2025). Optimizing air pollution sensing for social and environmental justice. *Applied Geography*, 178, 103606. [[paper](https://doi.org/10.1016/j.apgeog.2025.103606)]
+23. **Lin, Y.** & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. *Annals of the American Association of Geographers*, 115(3), 499-512. [[paper](https://doi.org/10.1080/24694452.2024.2435920)]
     - **<small>Top 3 most read articles published in the journal in 2025</small>**
-21. Xiao, N., Kim, M.J., & **Lin, Y.** (2025). A multistart and recombination algorithm for finding many unique solutions to spatial aggregation problems. *Geoinformatica*, 29, 53-91. [[paper](https://doi.org/10.1007/s10707-024-00520-0)]
-20. **Lin, Y.** & Kim, J. (2025). Pillars of GeoAI in Human Geography. In *GeoAI and Human Geography: The Dawn of a New Spatial Intelligence Era* (pp. 29-40). Cham: Springer Nature Switzerland. [[chapter](https://doi.org/10.1007/978-3-031-87421-5_3)]
+22. Xiao, N., Kim, M.J., & **Lin, Y.** (2025). A multistart and recombination algorithm for finding many unique solutions to spatial aggregation problems. *Geoinformatica*, 29, 53-91. [[paper](https://doi.org/10.1007/s10707-024-00520-0)]
+21. **Lin, Y.** & Kim, J. (2025). Pillars of GeoAI in Human Geography. In *GeoAI and Human Geography: The Dawn of a New Spatial Intelligence Era* (pp. 29-40). Cham: Springer Nature Switzerland. [[chapter](https://doi.org/10.1007/978-3-031-87421-5_3)]
+20. Otto, P. & **Lin, Y.** (2025). The Roaring ‘20s Project: Mapping pre-renewal built environments in Chicago from Sanborn Fire Insurance maps using a computational workflow. *32nd International Cartographic Conference (ICC 2025)*, August 16--22, Vancouver, CA. [[short paper](https://ica-abs.copernicus.org/articles/10/220/2025/ica-abs-10-220-2025.pdf)]
 
 **2024**
 <!-- -->
