@@ -5,10 +5,14 @@ description: Here be writings
 permalink: /publications
 ---
 
+**2026**
+<!-- -->
+27.  Zhao, B. & **Lin, Y.** GeoAI collapse? Ethical implications of synthetic geospatial data use. *International Journal of Geographical Information Science*, Published Online. [[paper](https://doi.org/10.1177/23998083251369570)]
+
 **2025**
 <!-- -->
 
-26. **Lin, Y.**, Bae, C., & Talen, E. (2025). How would AI define neighborhood boundaries? A comparison with human-crowdsourced data. *Environment and Planning B: Urban Analytics and City Science*, In Press. [[paper](https://doi.org/10.1177/23998083251369570)]
+26. **Lin, Y.**, Bae, C., & Talen, E. (2025). How would AI define neighborhood boundaries? A comparison with human-crowdsourced data. *Environment and Planning B: Urban Analytics and City Science*, Published Online. [[paper](https://doi.org/10.1080/13658816.2025.2609806)]
 25. **Lin, Y.** & Grekousis, G. (2025). Can geodemographic clustering be fair? Incorporating social fairness in crisp and fuzzy approaches through a unified framework. *International Journal of Geographical Information Science*, 39(6), 1270–1295. [[paper](https://doi.org/10.1080/13658816.2024.2444525)]
 24. **Lin, Y.**, Robinson, C., Yeap, Q.F., & Michael, H. (2025). Optimizing air pollution sensing for social and environmental justice. *Applied Geography*, 178, 103606. [[paper](https://doi.org/10.1016/j.apgeog.2025.103606)]
 23. **Lin, Y.** & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. *Annals of the American Association of Geographers*, 115(3), 499-512. [[paper](https://doi.org/10.1080/24694452.2024.2435920)]
