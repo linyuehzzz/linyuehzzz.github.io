@@ -7,7 +7,7 @@ permalink: /publications
 
 **2026**
 <!-- -->
-27.  Zhao, B. & **Lin, Y.** GeoAI collapse? Ethical implications of synthetic geospatial data use. *International Journal of Geographical Information Science*, Published Online. [[paper](https://doi.org/10.1177/23998083251369570)]
+27.  Zhao, B. & **Lin, Y.** (2026). GeoAI collapse? Ethical implications of synthetic geospatial data use. *International Journal of Geographical Information Science*, Published Online. [[paper](https://doi.org/10.1177/23998083251369570)]
 
 **2025**
 <!-- -->
