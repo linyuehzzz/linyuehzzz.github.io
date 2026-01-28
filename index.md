@@ -33,8 +33,12 @@ title: Home
       at the University of Illinois Urbana-Champaign. I am also a Faculty Affiliate at the 
       <a href="https://ncsa.illinois.edu/" target="_blank">
         National Center for Supercomputing Applications
-      </a> 
-      and serve on the Board of Directors of the 
+      </a>
+      and the 
+      <a href="https://csbs.research.illinois.edu/" target="_blank">
+        Center for Social & Behavioral Science
+      </a>.       
+      I also serve on the Board of Directors of the 
       <a href="https://cartogis.org/" target="_blank">
         Cartography and Geographic Information Society
       </a>.
