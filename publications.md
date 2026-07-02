@@ -6,6 +6,7 @@ permalink: /publications
 
 **2026**
 <!-- -->
+30. Otto, P. & Lin, Y. (2026). Computational Mapping of Historical Built Environments in American Cities from Sanborn Maps: A Case from the Chicago Urban Heritage Project. *Environment and Planning B: Urban Analytics and City Science*, Published Online. [[paper](https://doi.org/10.1177/23998083261466497)]
 29. Mostafavisabet, M., Sadvaric, J., Alam, M., **Lin, Y.**, Xiao, N., & Miller, H. (2026). Using Sanborn Fire Insurance maps for urban historical research and reconstructions: A review and case study. *Journal of Map & Geography Libraries*, Published Online. [[paper](https://doi.org/10.1080/15420353.2026.2690910)]
 28. **Lin, Y.**, Yeap, Q.F., & Zhang, H. (2026). Citizen science and geoprivacy: Empirical analysis of location masking in large-scale crowdsensing networks. *The Professional Geographer*, Published Online. [[paper](https://doi.org/10.1080/00330124.2026.2656680)] [[news](https://ggis.illinois.edu/news/2026-05-26/study-examines-how-location-privacy-concerns-shape-crowdsourced-socio-environmental-data)]
 27.  Zhao, B. & **Lin, Y.** (2026). GeoAI collapse? Ethical implications of synthetic geospatial data use. *International Journal of Geographical Information Science*, Published Online. [[paper](https://doi.org/10.1080/13658816.2025.2609806)]
