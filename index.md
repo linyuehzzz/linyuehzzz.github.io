@@ -32,8 +32,8 @@ title: Home
       </a> 
       at the University of Illinois Urbana-Champaign, where I direct the 
       <a href="https://geocompsoc.web.illinois.edu/" target="_blank">
-      Geospatial Computing & Society Lab (GeoCompSoc Lab). 
-      </a> I am also a Faculty Affiliate at the 
+      Geospatial Computing & Society Lab
+      </a>  (GeoCompSoc Lab). I am also a Faculty Affiliate at the 
       <a href="https://ncsa.illinois.edu/" target="_blank">
         National Center for Supercomputing Applications
       </a>
