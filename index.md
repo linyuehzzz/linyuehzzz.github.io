@@ -26,37 +26,38 @@ title: Home
   <!-- Main text -->
   <div style="flex: 1; min-width: 250px;">
     <p>
-      I am Assistant Professor in the 
+      I am an Assistant Professor in the
       <a href="https://ggis.illinois.edu/" target="_blank">
         Department of Geography & Geographic Information Science
-      </a> 
-      at the University of Illinois Urbana-Champaign, where I direct the 
+      </a>
+      at the University of Illinois Urbana-Champaign, where I direct the
       <a href="https://geocompsoc.web.illinois.edu/" target="_blank">
-      Geospatial Computing & Society Lab
-      </a>  (GeoCompSoc Lab). I am also a Faculty Affiliate at the 
+        Geospatial Computing & Society Lab
+      </a>
+      (GeoCompSoc Lab). I am also a Faculty Affiliate at the
       <a href="https://ncsa.illinois.edu/" target="_blank">
         National Center for Supercomputing Applications
       </a>
-      and the 
+      and the
       <a href="https://csbs.research.illinois.edu/" target="_blank">
         Center for Social & Behavioral Science.
       </a>
     </p>
     <p>
-      My research explores the intersection of data, computation, and human values. I am interested in how emerging geospatial technologies can be designed and used in ways that are ethical, socially responsible, and beneficial to humanity. More broadly, my interests span spatial data science, location privacy, and critical geospatial artificial intelligence (GeoAI).
+      My research examines the intersection of data, computation, and human values. I am interested in how emerging geospatial technologies can be designed and used in ethical, socially responsible, and beneficial ways. More broadly, my work spans spatial data science, location privacy, and critical geospatial artificial intelligence (GeoAI).
     </p>
     <p>
-      I’m currently investigating the social and ethical implications of GeoAI, including issues of socio-spatial biases, model collapse, and loss of diversity. I’m also committed to helping students to engage critically with these technologies by integrating AI literacy and ethical reasoning into their geospatial education.
+      I am currently investigating the social and ethical implications of GeoAI, including issues of socio-spatial bias, model collapse, and loss of diversity. I am also committed to helping students engage critically with these technologies by integrating AI literacy and ethical reasoning into geospatial education.
     </p>
     <p>
-      Feel free to get in touch with me at linyue at illinois.edu. You can also find me on 
-      <a href="https://scholar.google.com/citations?user=Pssz3IgAAAAJ&hl=en" target="_blank">Google Scholar</a>, 
-      <a href="https://www.linkedin.com/in/yue-lin-9536b019b/" target="_blank">LinkedIn</a>, and 
+      Feel free to reach out at linyue at illinois.edu. You can also find me on
+      <a href="https://scholar.google.com/citations?user=Pssz3IgAAAAJ&hl=en" target="_blank">Google Scholar</a>,
+      <a href="https://www.linkedin.com/in/yue-lin-9536b019b/" target="_blank">LinkedIn</a>, and
       <a href="https://www.researchgate.net/profile/Yue-Lin-14" target="_blank">ResearchGate</a>.
     </p>
     <p style="margin-top: 1.5em; font-size: 0.9em; color: #444; border-left: 3px solid #7B5CE5; padding-left: 0.8em;">
-      I am looking for motivated graduate and undergraduate students interested in spatial data science, GeoAI, and critical GIS. If you are interested in joining the lab, please visit 
-      <a href="https://geocompsoc.web.illinois.edu/opportunities/" target="_blank"> here</a>.
+      I am looking for motivated graduate and undergraduate students interested in spatial data science, GeoAI, and critical GIS. If you are interested in joining the lab, please visit
+      <a href="https://geocompsoc.web.illinois.edu/opportunities/" target="_blank">here</a>.
     </p>
     <p style="margin-top: 1em; font-size: 0.9em; color: #555;">
       *Yue is pronounced “Yoo-eh”.*

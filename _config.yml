@@ -23,8 +23,8 @@ email: lydiayuelin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Yue Lin's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://linyuegeog.github.io"
-github_username:  linyuegeog
+url: "https://linyue-gis.github.io"
+github_username:  linyue-gis
 
 # Build settings
 theme: minima
