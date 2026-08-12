@@ -60,7 +60,7 @@ title: Home
       <a href="https://geocompsoc.web.illinois.edu/opportunities/" target="_blank">here</a>.
     </p>
     <p style="margin-top: 1em; font-size: 0.9em; color: #555;">
-      *Yue is pronounced “Yoo-eh”.*
+      *Yue is pronounced "Yoo-eh" ("ue" as in d<u>ue</u>t).*
     </p>
   </div>
 </div>
