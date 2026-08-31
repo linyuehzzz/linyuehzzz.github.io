@@ -10,11 +10,11 @@ permalink: /publications
 29. Mostafavisabet, M., Sadvaric, J., Alam, M., **Lin, Y.**, Xiao, N., & Miller, H. (2026). Using Sanborn Fire Insurance maps for urban historical research and reconstructions: A review and case study. *Journal of Map & Geography Libraries*, Published Online. [[paper](https://doi.org/10.1080/15420353.2026.2690910)]
 28. **Lin, Y.**, Yeap, Q.F., & Zhang, H. (2026). Citizen science and geoprivacy: Empirical analysis of location masking in large-scale crowdsensing networks. *The Professional Geographer*, Published Online. [[paper](https://doi.org/10.1080/00330124.2026.2656680)] [[news](https://ggis.illinois.edu/news/2026-05-26/study-examines-how-location-privacy-concerns-shape-crowdsourced-socio-environmental-data)]
 27.  Zhao, B. & **Lin, Y.** (2026). GeoAI collapse? Ethical implications of synthetic geospatial data use. *International Journal of Geographical Information Science*, Published Online. [[paper](https://doi.org/10.1080/13658816.2025.2609806)]
+26. **Lin, Y.**, Bae, C., & Talen, E. (2026). How would AI define neighborhood boundaries? A comparison with human-crowdsourced data. *Environment and Planning B: Urban Analytics and City Science*, 53(6), 1224-1241. [[paper](https://doi.org/10.1177/23998083251369570)]
 
 **2025**
 <!-- -->
 
-26. **Lin, Y.**, Bae, C., & Talen, E. (2025). How would AI define neighborhood boundaries? A comparison with human-crowdsourced data. *Environment and Planning B: Urban Analytics and City Science*, Published Online. [[paper](https://doi.org/10.1177/23998083251369570)]
 25. **Lin, Y.** & Grekousis, G. (2025). Can geodemographic clustering be fair? Incorporating social fairness in crisp and fuzzy approaches through a unified framework. *International Journal of Geographical Information Science*, 39(6), 1270–1295. [[paper](https://doi.org/10.1080/13658816.2024.2444525)]
 24. **Lin, Y.**, Robinson, C., Yeap, Q.F., & Michael, H. (2025). Optimizing air pollution sensing for social and environmental justice. *Applied Geography*, 178, 103606. [[paper](https://doi.org/10.1016/j.apgeog.2025.103606)]
 23. **Lin, Y.** & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. *Annals of the American Association of Geographers*, 115(3), 499-512. [[paper](https://doi.org/10.1080/24694452.2024.2435920)]
